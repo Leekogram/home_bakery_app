@@ -4,16 +4,13 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is a cake ordering app built in flutter for home bakery.
+The App helps you send your order swiftly.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##Features of the App
+1.A user can choose the type,quantity of cake they want.
+2.A user can save their information for later use when sending order.
+3.Order are sent via whatsapp and sms.
 
 ![alt text](https://github.com/Leekogram/home_bakery_app/blob/master/Screenshot_20201009-141259.png?raw=true)
 ![alt text](https://github.com/Leekogram/home_bakery_app/blob/master/Screenshot_20201009-141315.png?raw=true)
