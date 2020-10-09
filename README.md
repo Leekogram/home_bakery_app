@@ -18,6 +18,6 @@ samples, guidance on mobile development, and a full API reference.
 ![alt text](https://github.com/Leekogram/home_bakery_app/blob/master/Screenshot_20201009-141259.png?raw=true)
 ![alt text](https://github.com/Leekogram/home_bakery_app/blob/master/Screenshot_20201009-141315.png?raw=true)
 ![alt text](https://github.com/Leekogram/home_bakery_app/blob/master/Screenshot_20201009-141452.png?raw=true)
-![alt text](https://github.com/Leekogram/home_bakery_app/blob/master/Screenshot_20201009-141441.png?raw=true)
 ![alt text](https://github.com/Leekogram/home_bakery_app/blob/master/Screenshot_20201009-141502.png?raw=true)
 ![alt text](https://github.com/Leekogram/home_bakery_app/blob/master/Screenshot_20201009-141519.png?raw=true)
+![alt text](https://github.com/Leekogram/home_bakery_app/blob/master/Screenshot_20201009-141528.png?raw=true)
